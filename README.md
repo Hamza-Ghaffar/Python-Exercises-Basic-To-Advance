@@ -1,2 +1,2 @@
 # Python Exercises_Basic_To_Advance
- Anyone can use
+ You can change by your own logics.
